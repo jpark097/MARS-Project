@@ -1,0 +1,45 @@
+---
+title: "Review of 'Group22'"
+author: "Group19"
+date: "1/04/2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Instructions
+1) Rename this file with your group name
+2) Save this file in the group folder that you intend to review
+3) Change the title and author fields accordingly
+
+## Check whether following R scripts are available or not 
+1) mars.R - Yes
+2) recpart_fwd.R - Yes
+3) mars.R - Updated 
+4) availability of supporting functions on mars.R - Yes
+
+## Check the implementation of recpart_fwd.R
+1) Code runs without any error - Yes
+2) If errors,
+  - Comment on the error
+  - What are your recommendation to overcome the errors
+3) Check the output. It returns the desired output - Yes
+
+
+## Check the implementation of mars.R: fwd_stepwise() function
+
+1) Code runs without any error - Yes
+2) If errors,
+  - Comment on the error
+  - What are your recommendation to overcome the errors
+3) Check the output. It returns the desired output - Yes
+
+
+## Check the implementation of mars.R: bwd_stepwise() function
+
+1) Code runs without any error - No
+2) If errors,
+   Not finished
+3) Check the output. It returns the desired output - No
