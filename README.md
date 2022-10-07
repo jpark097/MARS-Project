@@ -20,5 +20,3 @@ test.R - contains code chunk to test 3 different examples. used to test teh mars
 ## Dataset
 weather.csv - contains dataset to a weather dataset, which describes weather. This dataset predicts weather.
 
-NBA Player statistics 2009 to 2010 season - contains dataset to NBA players who have played in 2009 to 2010 season
-
